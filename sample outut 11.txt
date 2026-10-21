@@ -1,0 +1,14 @@
+First Array: [10 20 30 40]
+Second Array: [2 4 5 8]
+
+Addition: [12 24 35 48]
+Subtraction: [ 8 16 25 32]
+Multiplication: [ 20  80 150 320]
+Division: [5. 5. 6. 5.]
+
+Shape of First Array: (4,)
+Shape of Second Array: (4,)
+
+Vectorized Operations:
+NumPy performs calculations on all array elements at once.
+
